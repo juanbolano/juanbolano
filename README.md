@@ -8,7 +8,7 @@
   </a>
 </div>
 
-## :point_right: About me
+## :man: About me
 
 <br>
 
